@@ -1,4 +1,4 @@
-![N](nyobi_logo.png)
+![N予備校ロゴ](nyobi_logo.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q4fo4gRbQ-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
